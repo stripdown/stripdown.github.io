@@ -2,7 +2,7 @@
 
 Convert Markdown to **unstyled** rich text and copy it to your clipboard. The output preserves structure (headings, lists, tables, code, links) but carries no opinionated fonts, colors, or sizes — paste it anywhere and it inherits the destination's styling.
 
-Live: https://zurfyx.github.io/stripdown/
+Live: https://stripdown.github.io/
 
 ## Stack
 
